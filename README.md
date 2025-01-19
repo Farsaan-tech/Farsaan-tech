@@ -1,6 +1,6 @@
 # Farsaan Siddiqui Syed 🌐
 
-👨‍💻 **DevOps Engineer** | ☁️ **Cloud Enthusiast** | 🚀 **Tech Innovator**
+🚀 **Tech Innovator**
 
 ---
 
