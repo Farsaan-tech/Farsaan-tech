@@ -40,7 +40,6 @@
 
 📧 [Email](mailto:syedfarsaan@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/farsaan-siddiqui)  
-💻 [GitHub](https://github.com/Farsaan-tech)  
 🌐 [Portfolio](https://farsaansiddiqui.in)
 
 ---
