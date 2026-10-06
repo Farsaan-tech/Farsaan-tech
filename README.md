@@ -18,7 +18,7 @@
 ### 💼 **Experience**
 
 - **DevOps Engineer** @ Frontline Login System  
-  - 📅 **Dec 2021 - Present**
+  - 📅 **JUL 2024 - SEP 2026**
   - 🔧 Automated CI/CD with **Jenkins** & **Argo CD**
   - ☁️ Managed **AWS** cloud systems
 
