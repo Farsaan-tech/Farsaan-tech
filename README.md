@@ -17,25 +17,26 @@
 
 ### 💼 **Experience**
 
-- **DevOps Engineer** @ Frontline Login System  
-  - 📅 **JUL 2024 - SEP 2026**
-  - 🔧 Automated CI/CD with **Jenkins** & **Argo CD**
-  - ☁️ Managed **AWS** cloud systems
+💼 Experience
+🏢 **Frontline Login System Private Limited**
+**Software Associate**: Jul 2024 – Aug 2025
+**Junior DevOps Engineer**: Aug 2025 – Sep 2026
+🍕 **Papa Johns**
+**IT Support Assistant**: Jun 2023 – Mar 2024
 
 ---
 
-### 🌟 **Projects**
+### 🚧 **Projects**
 
-1. **Kubernetes Cluster** - 🚀 Deployed on **AWS**
-2. **AWS Migration** - ☁️ Migrated apps with **IAM** & **CloudWatch**
-3. **CI/CD Pipeline** - 🔧 Implemented with **Jenkins** & **Argo CD**
-
+☸️ Kubernetes on AWS — Terraform, Ansible, Jenkins, Argo CD
+☁️ AWS Cloud Migration — IAM, CloudTrail, CloudWatch
+🔄 CI/CD Pipeline — Jenkins, Docker, Kubernetes
 ---
 
-### 📧 **Contact**
+### 🤝 **Lets Connect**
 
-- 📧 Email: syedfarsaan@gmail.com  
-- 📱 Phone: +91-9533891979
+📧 Email: syedfarsaan@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/farsaan-siddiqui
 
 ---
 
