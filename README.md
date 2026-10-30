@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Farsaan 👋
+# Hey, I'm Farsaan Siddiqui👋
 
 ### I make infrastructure behave.
 
